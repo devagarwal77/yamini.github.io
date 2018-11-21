@@ -1,0 +1,1 @@
+a:2:{s:10:"index.html";a:1:{i:0;s:92:"http://highgradelab.com/stash/classic-studio/wp-content/uploads/sites/36/2017/03/favicon.png";}s:21:"stash/freelancer.html";a:1:{i:0;s:92:"http://highgradelab.com/stash/classic-studio/wp-content/uploads/sites/36/2017/03/favicon.png";}}
